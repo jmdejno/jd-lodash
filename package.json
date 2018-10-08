@@ -1,0 +1,17 @@
+{
+  "name": "jd-lodash",
+  "version": "1.0.0",
+  "description": "A lodash-like library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "ES6",
+    "util",
+    "utilities"
+  ],
+  "author": "Jeremy Dejno",
+  "license": "ISC"
+}
