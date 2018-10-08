@@ -1,0 +1,2 @@
+//Array
+export * from 'reduce';
